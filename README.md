@@ -1,12 +1,15 @@
 # DL-Keras
 
+### Python version
+* Version :  3.5.2
 ### Documention
 
 https://keras.io/
 
 ### Install Keras
 ~~~
-pip install keras
+pip3 install keras
+pip3 install h5py
 ~~~
 
 ### Initial model
